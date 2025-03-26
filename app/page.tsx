@@ -237,7 +237,7 @@ export default function AppStoreListing() {
             </div>
             <span className="text-xs text-blue-600">{t("navigation.search")}</span>
           </a>
-          <a href="http://reelsurl.com/WK1688FREE" className="flex flex-col items-center gap-1">
+          <a href="https://reelsurl.com/wink1688ss" className="flex flex-col items-center gap-1">
             <BookOpen className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.books")}</span>
           </a>
